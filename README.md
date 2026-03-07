@@ -1,6 +1,6 @@
-<div align="center">
+<div>
 <!--START_SECTION:waka-->
-
+  
 ```zig
 Total Time: 466 hrs 36 mins
 
