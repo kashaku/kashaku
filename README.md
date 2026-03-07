@@ -13,10 +13,6 @@ Java                               11 hrs 26 mins        ▓░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-  <br/>
-  <a href="https://wakatime.com/@14b070c9-094f-45e7-9ce5-faa07f653591" >
-    <img src="https://wakatime.com/badge/user/14b070c9-094f-45e7-9ce5-faa07f653591.svg?style=social" alt="Total time coded since Oct 25 2024"  >
-</a>
 </div>
 
 <!-- <div>
