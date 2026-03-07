@@ -1,13 +1,11 @@
+<div align="center">
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-<div align="center">
   <br/>
   <a href="https://wakatime.com/@14b070c9-094f-45e7-9ce5-faa07f653591" >
     <img src="https://wakatime.com/badge/user/14b070c9-094f-45e7-9ce5-faa07f653591.svg?style=social" alt="Total time coded since Oct 25 2024"  >
   </a>
 </div>
-
-
 
 <!-- <div>
   <h1>Preference</h1>
@@ -37,7 +35,3 @@
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="40" alt="vuejs logo" />
   </div>
 </details> -->
-
-
-
-
